@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<img src="https://github.com/vrkdev12/phpassesment/blob/master/public/ExcelFileUploadScreen.png" alt="PHP TEST" title="PHP TEST">
+<img src="https://github.com/vrkdev12/phpassesment/blob/master/excelfileupload.png" alt="PHP TEST" title="PHP TEST">
 
 ## About Laravel
 
