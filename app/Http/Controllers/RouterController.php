@@ -21,18 +21,17 @@ class RouterController extends Controller
     }
 
     /**
-    * Display a listing of the resource.
+    * Display a listing page of the routers.
     *
     * @return Response
     */
     public function index()
     {
-       $routers = $this->router->orderBy('id', 'DESC')->get();
-       return view('router.index', compact('routers'));
+       return view('router.index');
     }
 
     /**
-     * Store a newly created resource in storage.
+     * function is used to create array from the uploaded excel file.
      *
      * @param  \Illuminate\Http\Request  $request
      * @return Response
